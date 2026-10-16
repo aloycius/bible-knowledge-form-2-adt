@@ -6,7 +6,11 @@ Open `index.html` in a modern browser, or serve this folder with any static web 
 
 ## Contents
 
-The book includes page text, illustrations, navigation, accessibility metadata, and quiz activities. No source PDF, conversion database, model prompts, cache files, local paths, or credentials are included.
+The book contains 78 source pages: 10 front-matter pages and 68 numbered pages. Text, headings, exercises, and tables are selectable HTML; genuine illustrations and decorative textures retain their source appearance. Navigation, accessible figure descriptions, and read-aloud audio are included.
+
+Reconverted with ADT Studio and the updated `adt-book-conversion` skill on 16 October 2026. The package was checked page by page against the PDF, with source-text, asset, page-boundary, and reading-order audits.
+
+No source PDF, conversion database, model prompts, cache files, local paths, or credentials are included.
 
 ## Rights
 
